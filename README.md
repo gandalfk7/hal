@@ -1,3 +1,5 @@
+![alt tag](https://github.com/gandalfk7/hal/blob/master/git_logo/hal_logo.png)
+
 # Hal
 
 This is Hal, 
