@@ -34,13 +34,14 @@ I use [ACME Arietta G25](http://www.acmesystems.it/arietta) 128MB of ram, it wor
 needed.
 They can be anything that speaks html or anything that con talk with another script, suggestions are welcome!!
 
-##Hal background image: 
-The image has been crafted in GIMP using the pencil tool (with SHIFT you make straigh lines and with SHIFT+CTRL you make straight aligned lines)
+##Hal's main page: 
+The image has been crafted in GIMP using the pencil tool (with SHIFT you make straigh lines and with SHIFT+CTRL you make straight aligned lines).
 The active areas are manged via the html areas, there is a useful online tool that assists you in the definition of the areas: [ImageMap 
 Generator](http://imagemap-generator.dariodomi.de/).
 The text in overlay is defined in the css.
+The page refreshes every 120 seconds.
 
-#ToDo:
+##ToDo:
 1. Data logging
 2. Graphing
 3. Interaction with sensors: "sending actions" to the sensors like switching on and off lights.
@@ -50,3 +51,6 @@ The text in overlay is defined in the css.
 	* temperature 
 	* current clamps 
 	* soil moisture
+
+##License:
+Released under the GNU GENERAL PUBLIC LICENSE, see LICENSE.md for details.
