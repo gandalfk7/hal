@@ -6,7 +6,7 @@ Hal is not Cloud® driven because we believe the Cloud® doens't exist.
 Hal tries to be simple and easily customisable.
 
 Hal has some folders:
-'''
+```
 > -index.php		which is Hal's main file
 > 
 > -areas			is the folder where are stored the pages you reach clicking on the areas on the images
@@ -21,4 +21,4 @@ Hal has some folders:
 > 
 > -images
 >    |-house_hal01.png		is the main image on which the areas will be defined
-'''
+```
