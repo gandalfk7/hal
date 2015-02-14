@@ -1,4 +1,4 @@
-# hal
+# Hal
 
 This is Hal, 
 * Hal is the dumb cousin of a real smart home system. 
