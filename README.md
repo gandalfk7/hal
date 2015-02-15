@@ -32,7 +32,7 @@ There is a "server" running lighttpd that gets data from the sensors, which are 
 The idea is that the data is retrieved CURLing an html page, you can edit the sensors and controls config files to change or add modes of retrieving data from the sensors.
 I use [ACME Arietta G25](http://www.acmesystems.it/arietta) 128MB of ram, it works well and runs Debian on it. It's connected via wifi with the rest of the network. It's dumb as it's 
 needed.
-They can be anything that speaks html or anything that con talk with another script, suggestions are welcome!!
+They can be anything that speaks html or anything that can talk with another script, suggestions are welcome!!
 
 ##Hal's main page: 
 The image has been crafted in GIMP using the pencil tool (with SHIFT you make straigh lines and with SHIFT+CTRL you make straight aligned lines).
